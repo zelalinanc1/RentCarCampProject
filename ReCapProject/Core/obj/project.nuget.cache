@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZqazUsQFKPO3SvbMt26DUPSbzEoaZI9o8v9Exqyd/YMe5fZf4UODgLFcOuHvf00Mrr3s0EGzjMx7xdkuzDoWg==",
+  "dgSpecHash": "Em2LEPNeWzag5cYVKgmtjjfBN9c/2lF7hnmk/bkG40cWqFGkxDieL962dvsea64/xL+gYOwjIDCVBhMk0d548w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Source\\Repos\\RentCarCampProject\\ReCapProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
