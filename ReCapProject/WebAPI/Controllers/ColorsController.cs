@@ -25,6 +25,7 @@ namespace WebAPI.Controllers
         public IActionResult GetAll()
         {
             var result = _colorService.GetAll();
+            //
             if (result.Success)
             {
                 return Ok(result);
